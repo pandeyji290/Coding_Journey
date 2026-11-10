@@ -11,6 +11,7 @@ int main(){
            n=n/10;
         }
     printf("%d",rev);
+    
     return 0;
 }    
     
